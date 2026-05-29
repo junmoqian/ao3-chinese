@@ -1,11 +1,11 @@
 维护者：minkey
-版本号：1.0.3
-更新时间：2026-5-28
+版本号：1.0.4
+更新时间：2026-5-29
 
 词条
 // 天行者相关
 Shmi Skywalker = 施密·天行者
-Anakin Skywalker = 阿纳金·天行者
+Anakin Skywalker = 安纳金·天行者
 Padmé Amidala = 帕德梅·阿米达拉
 Luke Skywalker = 卢克·天行者
 Leia Organa = 莱娅·奥加纳
@@ -101,7 +101,7 @@ the Ghost:幽灵号
 //侠盗一号
 Galen Erso = 盖伦·厄索
 Stardust = 星尘
-Luthen Raelt = 卢森·雷尔
+Luthen Rael = 卢森·雷尔
 Cassian Andor = 卡西安·安多
 Kassa：卡撒
 Maarva：玛尔瓦
